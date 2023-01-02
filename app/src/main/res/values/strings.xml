@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KhataBook</string>
+    <string name="addIncome">Add Income</string>
+    <string name="addExpense">Add Expense</string>
+    <string name="category">Category</string>
+    <string name="Add">Add</string>
+    <string name="enterCategory">* Enter your Category *</string>
+    <string name="addCategory">Add Category</string>
+    <string name="ViewCategory">View Category</string>
+</resources>
